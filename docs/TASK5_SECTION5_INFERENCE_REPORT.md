@@ -56,7 +56,7 @@ checkpoints/
 | **Industrial_and_Scientific** | 0.3225           | 0.3110             |
 | **Musical_Instruments**       | 0.3374           | 0.3173             |
 
-> **注**：以上数值与训练日志中测试集表现完全对齐。其中 `Industrial_and_Scientific` 表现最优，体现了该类别较强的序列模式。
+> **注**：以上数值与训练日志中测试集表现完全对齐。其中 `Musical_Instruments` 表现最优，体现了该类别较强的序列模式。
 
 ------
 
